@@ -1,4 +1,4 @@
-# Course Project - Exploratory Data Analysis - Jisha Kalayil
+# Course Project 1 - Exploratory Data Analysis - Jisha Kalayil
 
 ## Introduction
 
